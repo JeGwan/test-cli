@@ -15,6 +15,9 @@
     "email": "emperorvv@gmail.com",
     "url": "https://github.com/JeGwan"
   },
+  "repository": {
+    "url": "https://github.com/JeGwan/test-cli"
+  },
   "license": "ISC",
   "config": {
     "PORT": 4000
