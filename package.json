@@ -1,0 +1,22 @@
+{
+  "name": "@jegwan/test-cli",
+  "version": "1.0.0",
+  "description": "cli test",
+  "scripts": {
+    "test": "echo \": no test specified\" && exit 1",
+    "config-test": "echo \"config.PORT=$npm_package_config_PORT\""
+  },
+  "bin": {
+    "myapp": "./cli.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "JeGwan",
+    "email": "emperorvv@gmail.com",
+    "url": "https://github.com/JeGwan"
+  },
+  "license": "ISC",
+  "config": {
+    "PORT": 4000
+  }
+}
